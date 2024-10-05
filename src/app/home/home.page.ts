@@ -17,7 +17,7 @@ export class HomePage {
   async enviarCorreo() {
     // protegiendo el acceso a la app de correo electronico para que no se crashee en el dispositivo de escritorio
     try {
-      //enviando parametros para la aplicacion de email
+      //enviando parametros para la aplicacion de email electronico
       console.log('Iniciando proceso de envío de correo');
 
       // abriendo programa de email
