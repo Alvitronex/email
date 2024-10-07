@@ -1,4 +1,9 @@
-# Instalacion en consola
+#Instalamos los paquetes necesario de npm para que nuestro proyecto responsa correctamente a nuestro proyecto al inciarlo.
+ eliminamos carpeta node_modules (para no tener problemas de dependencias)
+ instalamos NPM con el siguiente comando
+ - npm install
+
+# Instalacion en consola para funcionar envio de correo electronico
 
 - npm install cordova-plugin-email-composer
 
